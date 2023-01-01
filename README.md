@@ -3,7 +3,7 @@
 </div>
 
 <div id="badges">
-  <a href="https://img.shields.io/static/v1?label=<LABEL>&message=<MESSAGE>&color=<COLOR>">
+  <a href="[https://steamcommunity.com/id/ChuvakDavayPatak/](https://steamcommunity.com/id/ChuvakDavayPatak/)">
     <img src="https://img.shields.io/badge/steam-My%20steam%20account-black" alt="STEAM" />
   </a>
 </div>
