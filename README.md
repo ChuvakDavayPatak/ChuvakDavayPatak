@@ -9,6 +9,7 @@
     <img src="https://img.shields.io/badge/steam-My%20steam%20account-black" alt="STEAM" />
   </a>
   <a href="https://socialclub.rockstargames.com/member/ChuvakDavayPatak/">
-    <img scr="https://img.shields.io/badge/SocialClub-My%20ROCKSTAR%20account-yellow" alt="SOCIALCLUB"/>
+    <img scr="https://img.shields.io/badge/SocialClub%20-%20My%20ROCKSTAR%20account-yellow
+" alt="SOCIALCLUB"/>
   </a>
 </div>
