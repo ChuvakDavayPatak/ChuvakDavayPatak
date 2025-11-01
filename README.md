@@ -1,6 +1,6 @@
 # Добро пожаловать в мой репозиторий!
 
-<div id="header" align="center">
+<div id="header" align="left">
   <img src="https://github.com/ChuvakDavayPatak/ChuvakDavayPatak/blob/main/welcome.gif" width = "100" />
 </div>
 
@@ -9,6 +9,6 @@
     <img src="https://img.shields.io/badge/steam-My%20steam%20account-black" alt="STEAM" />
   </a>
   <a href="https://socialclub.rockstargames.com/member/ChuvakDavayPatak/">
-    <img scr="https://img.shields.io/badge/Social%20Club-My%20ROCKSTAR%20account-yellow" alt="SOCIALCLUB"/>
+    <img scr="https://img.shields.io/badge/SocialClub-My%20ROCKSTAR%20account-yellow" alt="SOCIALCLUB"/>
   </a>
 </div>
